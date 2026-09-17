@@ -1,0 +1,20 @@
+{
+  "kategoriler": [
+    "Son Dakika",
+    "Gündem",
+    "Dünya",
+    "Ekonomi",
+    "Teknoloji",
+    "Spor",
+    "Oyun & E-Spor",
+    "Bilim",
+    "Sağlık"
+  ],
+  "siklik_dk": 1,
+  "karakter": "ninja",
+  "boyut": 150,
+  "konum": [
+    1560,
+    655
+  ]
+}
